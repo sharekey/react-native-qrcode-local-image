@@ -15,3 +15,8 @@ android {
         }
     }
 }
+
+dependencies {
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.google.zxing:core:3.3.3'
+}
